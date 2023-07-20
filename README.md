@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 <h1 align="center">📫 How to reach me? My email danielgqnqn099@gmail.com</h1>
 <h1 align="center">🤝 I want to help in programming projects to gain experience as a fullstack programmer</h1>
 </div>
+     <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hola soy desarrollador fullstack</h1>
     <h3 align="center"> soy un desarrollador fullstack  que megusta lo que hago y me a pasiona las tecnologias dela informatica</h3>
