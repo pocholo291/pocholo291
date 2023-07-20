@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 <h1 align="center">📚 I’m currently studying Analysis and development of information system</h1>
 <h1 align="center">🌱 I’m currently learning Python,php,html,css,laravel,ect</h1>
-<h1 align="center">📫 How to reach me? My email danielgqnqn099@gmail.com</h1>
+<h1 align="center">📫 How to reach me? My email danielgqnan099@gmail.com</h1>
 <h1 align="center">🤝 I want to help in programming projects to gain experience as a fullstack programmer</h1>
 </div>
      <div id="header" align="center">
