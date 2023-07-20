@@ -1,10 +1,11 @@
 
-
+<div id="header" align="center">
 Here are some ideas to get you started:
 📚 I’m currently studying Analysis and development of information system
 🌱 I’m currently learning Python,php,html,css,laravel,ect
 📫 How to reach me? My email danielgqnqn099@gmail.com
 🤝 I want to help in programming projects to gain experience as a fullstack programmer
+</div>
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
